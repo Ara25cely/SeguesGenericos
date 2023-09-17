@@ -1,2 +1,4 @@
-sum = 1+2
-print(sum)
+a = 23
+b = 34
+if a == 34 or b == 34:
+    print(a + b)
